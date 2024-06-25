@@ -1,7 +1,8 @@
 # Bias Identification Application
-This project aims to automatically identify bias in textual data. 
+This project aims to detect bias in textual data. 
 Detecting bias is crucial in various fields like social media analysis, news reporting, and content moderation.
-This application leverages state-of-the-art Natural Language Processing (NLP) methods to classify text into different bias categories.
+Here we are using different NLP techniques, BERT Embeddings and several ML agorithms to classify text into different bias categories.
+This application is deployed on streamlit and you can access and test it using the given link : https://bias-identification-dawnjo.streamlit.app/
 
 ## Key Features:
 *  BERT Embeddings: Utilizes BERT (Bidirectional Encoder Representations from Transformers) for contextual word embeddings, capturing nuanced semantic information.
